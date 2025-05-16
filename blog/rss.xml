@@ -4,10 +4,22 @@
         <title>Docusauruuuus Site!! Blog</title>
         <link>https://gabrielpedro06.github.io/Docussaurus/blog</link>
         <description>Docusauruuuus Site!! Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Título do meu post super mega cool]]></title>
+            <link>https://gabrielpedro06.github.io/Docussaurus/blog/Teste</link>
+            <guid>https://gabrielpedro06.github.io/Docussaurus/blog/Teste</guid>
+            <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[ganda teaser XD]]></description>
+            <content:encoded><![CDATA[<p>ganda teaser XD</p>
+<p>balah balhsadhasdjal a</p>]]></content:encoded>
+            <category>Docusaurus</category>
+            <category>teste</category>
+            <category>aulas</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://gabrielpedro06.github.io/Docussaurus/blog/welcome</link>
