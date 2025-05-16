@@ -8,13 +8,13 @@
     <subtitle>Docusauruuuus Site!! Blog</subtitle>
     <icon>https://gabrielpedro06.github.io/Docussaurus/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Título do meu post super mega cool]]></title>
+        <title type="html"><![CDATA[Titulo do meu post super mega cool]]></title>
         <id>https://gabrielpedro06.github.io/Docussaurus/blog/Teste</id>
         <link href="https://gabrielpedro06.github.io/Docussaurus/blog/Teste"/>
         <updated>2025-05-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[ganda teaser XD]]></summary>
         <content type="html"><![CDATA[<p>ganda teaser XD</p>
-<p>balah balhsadhasdjal a</p>]]></content>
+<p>balah balhsadhasdjal</p>]]></content>
         <author>
             <name>Gabriel Pedro</name>
             <uri>http://github.com/gabrielpedro06</uri>

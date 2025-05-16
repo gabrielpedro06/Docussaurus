@@ -9,13 +9,13 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Título do meu post super mega cool]]></title>
+            <title><![CDATA[Titulo do meu post super mega cool]]></title>
             <link>https://gabrielpedro06.github.io/Docussaurus/blog/Teste</link>
             <guid>https://gabrielpedro06.github.io/Docussaurus/blog/Teste</guid>
             <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[ganda teaser XD]]></description>
             <content:encoded><![CDATA[<p>ganda teaser XD</p>
-<p>balah balhsadhasdjal a</p>]]></content:encoded>
+<p>balah balhsadhasdjal</p>]]></content:encoded>
             <category>Docusaurus</category>
             <category>teste</category>
             <category>aulas</category>
